@@ -1,0 +1,1 @@
+# KPT_C_Program_Deteksi_Influence_Pewarnaan_Graf_Algoritma_Genetika
